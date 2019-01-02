@@ -1,6 +1,6 @@
 # zhihujuechuang
 
-> A Vue.js project 测试
+> A Vue.js project 我是liwenliang2
 
 ## Build Setup
 
