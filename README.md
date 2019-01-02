@@ -1,6 +1,6 @@
 # zhihujuechuang
 
-> A Vue.js project 我是liwenliang2
+> A Vue.js project liwenliang2
 
 ## Build Setup
 
