@@ -55,7 +55,7 @@
         }
     };
 </script>
-<style lang="less" scoped>
+<style lang="less">
     @import "../assets/less/pages/NewsDetail.less";
     @import "../../static/css/news_qa.auto.css";
 </style>
